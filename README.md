@@ -11,7 +11,7 @@
 
 ## Demo
 
-You can view the project live at: https://vercel.com/harshs-projects-8df0d664/react-api
+You can view the project live at: https://react-api-orpin-pi.vercel.app/
 
 ## Technologies Used
 
