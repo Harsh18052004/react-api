@@ -22,5 +22,10 @@ You can view the project live at: https://vercel.com/harshs-projects-8df0d664/re
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
+1. Clone the repository: git@github.com:HarshBti/react-api.git
+2. Navigate to repository : cd react-api
+3. Install the dependencies: npm install
+4. Start the development server:npm start
+
+
+
