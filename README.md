@@ -1,6 +1,6 @@
-# Delicouss
+# Delicous
 
-**Delicouss** is a React-based web application that displays a dynamic food menu catalogue. It fetches data from a public API to display the menu items, including details such as dish name, price, and description. 
+**Delicous** is a React-based web application that displays a dynamic food menu catalogue. It fetches data from a public API to display the menu items, including details such as dish name, price, and description. 
 
 ## Features
 
@@ -11,7 +11,7 @@
 
 ## Demo
 
-You can view the project live at: [Delicouss Live](#)
+You can view the project live at: https://vercel.com/harshs-projects-8df0d664/react-api
 
 ## Technologies Used
 
