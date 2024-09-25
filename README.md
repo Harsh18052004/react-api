@@ -22,10 +22,10 @@ You can view the project live at: https://react-api-orpin-pi.vercel.app/
 
 ## Installation
 
-1. Clone the repository: git@github.com:HarshBti/react-api.git
-2. Navigate to repository : cd react-api
-3. Install the dependencies: npm install
-4. Start the development server:npm start
+1. Clone the repository:  ```git clone git@github.com:HarshBti/react-api.git ```
+2. Navigate to repository :  ```cd react-api ```
+3. Install the dependencies:  ```npm install ```
+4. Start the development server:  ```npm start ```
 
 ## How it Works
 1. The app uses the Fetch API inside a useEffect hook to retrieve the list of food items from an external API once the component mounts.
@@ -33,3 +33,11 @@ You can view the project live at: https://react-api-orpin-pi.vercel.app/
 3. The UI is designed with simplicity in mind to ensure ease of use for customers browsing the menu.
 
 
+## Contributing
+
+Feel free to fork this repository, create a new branch, and submit a pull request with any improvements or bug fixes!
+
+## License
+
+This project is licensed under the MIT License.
+`You can adapt this further based on any additional features or specific APIs you use for the food menu.`
