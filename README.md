@@ -27,5 +27,9 @@ You can view the project live at: https://vercel.com/harshs-projects-8df0d664/re
 3. Install the dependencies: npm install
 4. Start the development server:npm start
 
+## How it Works
+1. The app uses the Fetch API inside a useEffect hook to retrieve the list of food items from an external API once the component mounts.
+2. Each menu item is displayed with its name, price, and a short description.
+3. The UI is designed with simplicity in mind to ensure ease of use for customers browsing the menu.
 
 
